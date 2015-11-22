@@ -1,0 +1,1 @@
+This is USC Bookstore iOS application prototype with features like men's wardrobe, books, gadgets, etc.
